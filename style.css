@@ -1,0 +1,36 @@
+#myDIV{
+  background-color: red;
+  width: 40%;
+  height: 100px;
+  border: 2px solid red;
+  border-radius: 8px;
+  margin-left: 30%;
+}
+
+#myInput{
+  width: 70%;
+  height: 30px;
+  border: 2px solid #909296;
+  border-radius: 8px;
+}
+
+.addBtn{
+  border: 2px solid #909296;
+  padding: 10px 20px 10px 20px;
+  border-radius: 8px;
+  background-color: #00cc03;
+  color: #fff;
+  cursor: pointer;
+}
+
+#myUL{
+    margin-left: 30%;
+    width: 37.1%;
+    background-color: #c7c7c9;
+    border: 2px solid #88888c;
+    border-radius: 8px;
+    border-bottom: 1px solid red;
+    border-top: 1px solid red;
+    font-weight: bold;
+    font-size: 2em;
+}
